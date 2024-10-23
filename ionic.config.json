@@ -1,0 +1,8 @@
+{
+  "name": "HSK Talk",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "79e5e60e"
+}
